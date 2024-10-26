@@ -16,7 +16,8 @@ day = None
 
 # Get the year, then the month, then the day
 # housekeeping()
-
+# PROMPT user to enter month, day, and year
+# STORE the input in the variable month, day, and year
 month = input("month = ")
 day = input("day = ")
 year = input("year = ")
